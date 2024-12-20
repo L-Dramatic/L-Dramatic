@@ -11,12 +11,7 @@ I'm a passionate developer who loves to code, learn, and create. Welcome to my G
 ## 🌟 About Me
 
 - 🔭 I’m currently studying at **[Tongji University]**
-- 🌱 I’m currently learning **[YourLearningTopic]**
-- 👯 I’m looking to collaborate on **[YourCollaborationInterest]**
-- 💬 Ask me about **[YourExpertise]**
-- 📫 How to reach me: **[YourContactInfo]**
-- 😄 Pronouns: **[YourPronouns]**
-- ⚡ Fun fact: **[YourFunFact]**
+- 📫 How to reach me: **[3062059635@qq.com]**
 
 ---
 
