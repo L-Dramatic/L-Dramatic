@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </p>
 
-# Hi there, I'm [YourUsername]! 👋
+# Hi there, I'm [Li Xingshuo]! 👋
 
 I'm a passionate developer who loves to code, learn, and create. Welcome to my GitHub profile! 🚀
 
@@ -10,7 +10,7 @@ I'm a passionate developer who loves to code, learn, and create. Welcome to my G
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **[YourCurrentProject]**
+- 🔭 I’m currently studying at **[Tongji University]**
 - 🌱 I’m currently learning **[YourLearningTopic]**
 - 👯 I’m looking to collaborate on **[YourCollaborationInterest]**
 - 💬 Ask me about **[YourExpertise]**
