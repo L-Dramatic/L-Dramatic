@@ -15,21 +15,6 @@ I'm a passionate developer who loves to code, learn, and create. Welcome to my G
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-## 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 
 
 
